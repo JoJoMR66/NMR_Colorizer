@@ -21,3 +21,8 @@ Thumbs.db
 # Application data
 path_history.json
 *.log
+
+debug_svg/
+rapport_nmr.png
+setup_ketcher.py
+*.png  # if you want to exclude all PNG files
